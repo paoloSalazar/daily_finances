@@ -60,5 +60,3 @@ A FastAPI-based web application for managing personal daily finances. This proje
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-
-This project is licensed under the MIT License.
